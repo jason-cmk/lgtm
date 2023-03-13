@@ -1,4 +1,6 @@
 const wordlist = require('wordlist-english');
+
+// Get top 10% from english words
 const englishWords = wordlist['english/10'];
 
 function getWord(letter, wordlist) {

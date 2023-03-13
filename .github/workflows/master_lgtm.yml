@@ -41,4 +41,4 @@ jobs:
           app-name: 'lgtm'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A6F97FD9C93341B7B4C7A741481E9AA5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_89D03218CEF944A093BCEFAA821466B2 }}
